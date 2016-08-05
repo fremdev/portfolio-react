@@ -1,5 +1,12 @@
 import React from 'react';
 
-const App = () => <div>My app!</div>;
+import Navbar from './Navbar';
+
+const App = () => (
+  <div>
+    <Navbar />
+    {this.props.children}
+  </div>
+);
 
 export default App;

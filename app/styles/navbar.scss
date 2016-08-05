@@ -1,0 +1,12 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__logo {
+  flex: 1 1 auto;
+}
+
+.nav__item {
+  margin-right: 30px;
+}
