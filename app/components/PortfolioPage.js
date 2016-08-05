@@ -1,10 +1,7 @@
 import React from 'react';
 
 const PortfolioPage = () => (
-  <div>
-    <Navbar />
-    <div>This is PortfolioPage</div>
-  </div>
+  <div>This is PortfolioPage</div>
 );
 
 export default PortfolioPage;

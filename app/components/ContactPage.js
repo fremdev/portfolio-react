@@ -1,10 +1,7 @@
 import React from 'react';
 
 const ContactPage = () => (
-  <div>
-    <Navbar />
-    <div>This is contact page</div>
-  </div>
+  <div>This is contact page</div>
 );
 
 export default ContactPage;
